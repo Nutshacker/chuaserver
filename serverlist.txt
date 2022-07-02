@@ -1,1 +1,1 @@
-Kakarot AlphaTest:103.90.224.247:14445:0,Love:nrolove.autolapro.com:14445:0,0,0
+Kakarot AlphaTest:103.90.224.247:14445:0,Love:nrolove.autolapro.com:14445:0,Love:nrolove.autolapro.com:14445:0,0,0
